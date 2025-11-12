@@ -1,5 +1,5 @@
 # web-radio
-A practical standalone web radio with 200+ channels, hours of music with almost no ads, working on ESP32 and connecting to Wifi WPS in one push button.
+A practical standalone web radio with 200+ channels, hours of music with (usually almost) no ads, working on ESP32 and connecting to your Wifi box in one push on the WPS button.
 
 # Features
 * ESP32 driven
@@ -22,3 +22,7 @@ A practical standalone web radio with 200+ channels, hours of music with almost 
 ![20250423_142001](https://github.com/user-attachments/assets/7efc7cea-f6ce-4179-a4fb-7e65e717b717)
 ![20250423_142011](https://github.com/user-attachments/assets/dc3fa3d4-ba49-4a1a-8cfe-1480b464abc7)
 ![20250423_135808](https://github.com/user-attachments/assets/cccccfa2-b6de-47f9-b9ed-506dbe80634e)
+
+# Shematics
+
+# 3D models
