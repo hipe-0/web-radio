@@ -12,8 +12,11 @@
 #include "RadioURLs.h"
 #include "RadioCallbacks.h"
 
-String ssid = "gex-59128";
-String password = "FtRK-Qvxf-Y16A-cyKg";
+// Replace hard-coded credentials with Secrets.h
+#include "Secrets.h"
+
+const char* ssid = WIFI_SSID;
+const char* password = WIFI_PASSWORD;
 
 WiFiRadio radio(ssid, password);
 TFTDisplay display;
