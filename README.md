@@ -35,7 +35,7 @@ A practical standalone open-source web radio with 200+ channels, hours of music 
 * 1x Soldering iron
 * 1x 360° Rotary encoder with press switch (https://de.aliexpress.com/item/1005004907970664.html?spm=a2g0o.order_list.order_list_main.438.1d491802ooXU1Q&gatewayAdapt=glo2deu)
 * 2x 10K resistors
-* 1x 3D printed enclosure in PETG with it's cover
+* 1x 3D printed enclosure in PETG with it's cover (https://www.thingiverse.com/thing:7199885)
 
 # Shematics
 
