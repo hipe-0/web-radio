@@ -28,7 +28,7 @@ A practical standalone open-source web radio with 200+ channels, hours of music 
 * 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" ()
 * 2x push button switches
 * 1x on/off button
-* 1x Li-Ion Battery shield
+* 1x Li-Ion Battery shield ESP32 18650 Battery Charge Shield Board V3 Micro USB Port Type-A USB 0.5A (https://de.aliexpress.com/item/1005001621882169.html?spm=a2g0o.order_list.order_list_main.308.1d491802ooXU1Q&gatewayAdapt=glo2deu)
 * 1x Li-Ion Battery 3.7V 18650 12000mAh Rechargeable (https://de.aliexpress.com/item/1005001659406681.html?spm=a2g0o.order_list.order_list_main.61.1d491802ooXU1Q&gatewayAdapt=glo2deu)
 * Wires
 * 2x Solder board
