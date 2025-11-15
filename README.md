@@ -2,6 +2,9 @@
 A practical standalone open-source web radio with 200+ channels, hours of music with (usually almost) no ads. Working on a simple ESP32 with a DAC and connecting to your Wifi box in one push on the WPS button.
 ![20250423_171448](https://github.com/user-attachments/assets/6f15123d-d04f-4b92-b701-cdd8711e52c7)
 
+https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
+
+
 # Features
 * ESP32 powered
 * Connects to Wifi for internet radio
