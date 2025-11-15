@@ -25,7 +25,7 @@ A practical standalone open-source web radio with 200+ channels, hours of music 
 # Parts
 * 1x ESP32 WROOM (Development Board ESP WROOM32 Module WIFI+Bluetooth IO)
 * 1x 'Audio kit' DAC PT8211 from PRJC I2S 16 bit 3.3v (https://www.pjrc.com/store/pt8211_kit.html)
-* 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" ()
+* 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" SDI-ST7789 ()
 * 2x push button switches
 * 1x on/off button
 * 1x Li-Ion Battery shield ESP32 18650 Battery Charge Shield Board V3 Micro USB Port Type-A USB 0.5A (https://de.aliexpress.com/item/1005001621882169.html?spm=a2g0o.order_list.order_list_main.308.1d491802ooXU1Q&gatewayAdapt=glo2deu)
