@@ -38,6 +38,7 @@ A practical standalone open-source web radio with 200+ channels, hours of music 
 * 1x 3D printed enclosure in PETG with it's cover (https://www.thingiverse.com/thing:7199885)
 
 # Shematics
-Hoping you can read my scribbles. Is quite straightforward once you get into it. I may do a fritzing version one day.
+<img width="1115" height="697" alt="2025-11-15 17_00_17-2025-11-15 Internet Radio fzz - Fritzing -  Vue de la platine d&#39;essai" src="https://github.com/user-attachments/assets/5dce1f41-d035-40fb-b343-235fa4009cdc" />
+Hoping you can read my scribbles. Is quite straightforward once you get into it. 
 <img width="1352" height="1803" alt="image" src="https://github.com/user-attachments/assets/3b130be8-d138-4187-9676-78544ee04c63" />
 
