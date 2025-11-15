@@ -46,10 +46,11 @@ Upload the code with VS Code with the platformio add-in.
 Download my own design here on thigiverse:
 * https://www.thingiverse.com/thing:7199885
 
-# Shematics
+# Shematics - Prototype board
 Here is the fritzing view of how I suggest to assemble and weld with prototype board.
 <img width="1115" height="697" alt="2025-11-15 17_00_17-2025-11-15 Internet Radio fzz - Fritzing -  Vue de la platine d&#39;essai" src="https://github.com/user-attachments/assets/5dce1f41-d035-40fb-b343-235fa4009cdc" />
 
-More detail here: Hoping you can read my original scribbles below. Is quite straightforward once you get into it. 😊
+# Notes and Shematics
+You may find useful the added details and shematics in my original notes: Hoping you can read my scribbles below. Is quite straightforward once you get into it. 😊
 <img width="1352" height="1803" alt="image" src="https://github.com/user-attachments/assets/3b130be8-d138-4187-9676-78544ee04c63" />
 
