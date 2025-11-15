@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 # Parts
 * 1x ESP32 WROOM microcontroler (Development Board ESP WROOM32 Module WIFI+Bluetooth IO)
 * 1x 'Audio kit' DAC PT8211 from PRJC I2S 16 bit 3.3v (https://www.pjrc.com/store/pt8211_kit.html)
-* 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" SDI-ST7789 ()
+* 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" SDI-ST7789 (https://de.aliexpress.com/item/1005007465243480.html?spm=a2g0o.productlist.main.3.4bbd3667lrzRoL&algo_pvid=cc9557af-0a4a-4f29-9da9-b51afa524722&algo_exp_id=cc9557af-0a4a-4f29-9da9-b51afa524722-2&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%215.58%212.68%21%21%2145.00%2121.60%21%40211b65de17632248217547935ef25b%2112000040875387256%21sea%21CH%213453327386%21X%211%210%21n_tag%3A-29919%3Bd%3Aef9f8811%3Bm03_new_user%3A-29895&curPageLogUid=UIQ1hnT28vz0&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007465243480%7C_p_origin_prod%3A)
 * 2x push button switches
 * 1x on/off switch
 * 1x Li-Ion Battery shield ESP32 18650 Battery Charge Shield Board V3 Micro USB Port Type-A USB 0.5A (https://de.aliexpress.com/item/1005001621882169.html?spm=a2g0o.order_list.order_list_main.308.1d491802ooXU1Q&gatewayAdapt=glo2deu)
