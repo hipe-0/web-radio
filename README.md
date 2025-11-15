@@ -17,6 +17,7 @@ A practical standalone open-source web radio with 200+ channels, hours of music 
 * Audio output: 3mm Audio jack, stereo, hifi 16 bit
 * If a channel produces a rebooting, long press on encoder while rebooting will move to channel+1
 * WPS: easy connexion in one click on most wifi box
+![20250423_133256](https://github.com/user-attachments/assets/5e40bebb-8538-4dca-8c5f-6f9722b295dc)
 
 ![20250423_142001](https://github.com/user-attachments/assets/7efc7cea-f6ce-4179-a4fb-7e65e717b717)
 ![20250423_142011](https://github.com/user-attachments/assets/dc3fa3d4-ba49-4a1a-8cfe-1480b464abc7)
