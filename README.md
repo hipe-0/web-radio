@@ -39,6 +39,10 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 * 2x 10K resistors
 * 1x 3D printed enclosure in PETG with it's cover (https://www.thingiverse.com/thing:7199885)
 
+# 3D Models
+Download my own design here on thigiverse:
+* https://www.thingiverse.com/thing:7199885
+
 # Shematics
 <img width="1115" height="697" alt="2025-11-15 17_00_17-2025-11-15 Internet Radio fzz - Fritzing -  Vue de la platine d&#39;essai" src="https://github.com/user-attachments/assets/5dce1f41-d035-40fb-b343-235fa4009cdc" />
 Hoping you can read my scribbles. Is quite straightforward once you get into it. 
