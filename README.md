@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 ![20250423_171448](https://github.com/user-attachments/assets/6f15123d-d04f-4b92-b701-cdd8711e52c7)
 
 # Parts
-* 1x ESP32 WROOM microcontroler (Development Board ESP WROOM32 Module WIFI+Bluetooth IO) ~4€
+* 1x ESP32 WROOM microcontroler Development Board ESP WROOM32 Module WIFI+Bluetooth IO (https://de.aliexpress.com/item/1005006449303342.html) ~4€
 * 1x 'Audio kit' DAC PT8211 from PRJC I2S 16 bit 3.3v (https://www.pjrc.com/store/pt8211_kit.html) ~3$
 * 1x Full color TFT Display module 240x240 LCD screen 3.3v RGB 1.54"x1.54" SDI-ST7789 (https://de.aliexpress.com/item/1005007465243480.html) ~3€
 * 2x push button switches
