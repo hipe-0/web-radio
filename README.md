@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 # Features
 * ESP32 powered
 * Connects to your Wifi box for internet radio
-* Kids friendly
+* Dead simple to use (Kids friendly)
 * 200+ channels are preset
 * Easy selection of channel with a big rotary button you can press to launch the radio.
 * Useful 1.54" color LCD screen that displays song titles.
