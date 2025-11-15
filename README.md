@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 
 # Features
 * ESP32 powered (that microcontroller has an insane price/power ratio with low consumption)
-* Connects to your Wifi box for internet radio
+* Connects to internet radio via your Wifi Box.
 * Dead simple to use (Kids friendly)
 * 200+ channels are preset
 * Easy selection of channel with a big rotary button you can press to launch the radio.
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 * Uses a single USB rechargeable Li/ion battery in 18650 form factor.
 * Audio output: 3mm Audio jack, stereo, hifi 16 bit
 * If a channel produces a rebooting, long press on encoder while rebooting will move to channel+1
-* WPS: easy connexion in one click on most wifi box 🛜
+* WPS: Easy wifi connexion in one click on your box 🛜
 * Cheap (about 20 € of material, but in practice should be more around ~30-40 € as you need to buy some components in bulks of 5 or 10 and also add some delivery costs)
 ![20250423_133256](https://github.com/user-attachments/assets/5e40bebb-8538-4dca-8c5f-6f9722b295dc)
 ![20250423_142001](https://github.com/user-attachments/assets/7efc7cea-f6ce-4179-a4fb-7e65e717b717)
