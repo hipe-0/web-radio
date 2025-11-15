@@ -55,3 +55,5 @@ Here is the fritzing view of how I suggest to assemble and weld with prototype b
 You may find useful the added details and shematics in my original notes: Hoping you can read my scribbles below. Is quite straightforward once you get into it. 😊
 <img width="1352" height="1803" alt="image" src="https://github.com/user-attachments/assets/3b130be8-d138-4187-9676-78544ee04c63" />
 
+# Ideas for the future
+Desiging a printed Circuit board would make the assembly so much easier. --> I'll maybe do this later.
