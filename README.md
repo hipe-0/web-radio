@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 * Audio output: 3mm Audio jack, stereo, hifi 16 bit
 * If a channel produces a rebooting, long press on encoder while rebooting will move to channel+1
 * WPS: easy connexion in one click on most wifi box 🛜
-* Cheap (about 15 € of material, but should be more around ~30 € in practice as you need to buy some components in bulks of 5 or 10)
+* Cheap (about 20 € of material, but in practice should be more around ~30-40 € as you need to buy some components in bulks of 5 or 10 and also add some delivery costs)
 ![20250423_133256](https://github.com/user-attachments/assets/5e40bebb-8538-4dca-8c5f-6f9722b295dc)
 ![20250423_142001](https://github.com/user-attachments/assets/7efc7cea-f6ce-4179-a4fb-7e65e717b717)
 ![20250423_142011](https://github.com/user-attachments/assets/dc3fa3d4-ba49-4a1a-8cfe-1480b464abc7)
