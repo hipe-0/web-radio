@@ -1,9 +1,7 @@
 # web-radio
 A practical standalone open-source web radio with 200+ channels, hours of music with (usually almost) no ads. Kids friendly. Working on a simple ESP32 with a DAC and connecting to your Wifi box in one push on the WPS button.
-![20250423_171448](https://github.com/user-attachments/assets/6f15123d-d04f-4b92-b701-cdd8711e52c7)
 
 https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
-
 
 # Features
 * ESP32 powered
@@ -21,10 +19,10 @@ https://github.com/user-attachments/assets/d1213b52-7903-45f3-94ce-77da26fb0ff1
 * If a channel produces a rebooting, long press on encoder while rebooting will move to channel+1
 * WPS: easy connexion in one click on most wifi box
 ![20250423_133256](https://github.com/user-attachments/assets/5e40bebb-8538-4dca-8c5f-6f9722b295dc)
-
 ![20250423_142001](https://github.com/user-attachments/assets/7efc7cea-f6ce-4179-a4fb-7e65e717b717)
 ![20250423_142011](https://github.com/user-attachments/assets/dc3fa3d4-ba49-4a1a-8cfe-1480b464abc7)
 ![20250423_135808](https://github.com/user-attachments/assets/cccccfa2-b6de-47f9-b9ed-506dbe80634e)
+![20250423_171448](https://github.com/user-attachments/assets/6f15123d-d04f-4b92-b701-cdd8711e52c7)
 
 # Parts
 * 1x ESP32 WROOM (Development Board ESP WROOM32 Module WIFI+Bluetooth IO)
