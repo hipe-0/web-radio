@@ -46,6 +46,8 @@ Upload the code with VS Code with the platformio add-in.
 # 3D Models
 Download my own design here on thigiverse:
 * https://www.thingiverse.com/thing:7199885
+<img width="465" height="530" alt="2025-11-13 22_55_09-_Untitled - PrusaSlicer-2 9 2 based on Slic3r" src="https://github.com/user-attachments/assets/ad068ad3-7e61-4550-8be6-9671afff4945" />
+
 
 # Shematics - Prototype board
 Here is the fritzing view of how I suggest to assemble and weld with prototype board.
